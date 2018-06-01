@@ -1,6 +1,13 @@
 # Hourglass-Pytorch
 
-The code is an pytorch implementation of [《Iterative Deep Learning for Network Topology Extraction》](https://arxiv.org/abs/1712.01217). But I have not finished it, it is still in the patch training step.
+
+> Author: Yuchao Gu
+
+> E-mail: 2015014178@buct.edu.cn
+
+> Date: 2018-05-27
+
+>Description: The code is an pytorch implementation of [《Iterative Deep Learning for Network Topology Extraction》](https://arxiv.org/abs/1712.01217). But I have not finished it, it is still in the patch training step.
 
 ---
 
